@@ -1,6 +1,6 @@
 <h1 align="center">𝙷𝚎𝚕𝚕𝚘!   𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 Anatolii Soloshenko <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <!-- <h3 align="center">𝙸'𝚖 𝚊 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝚄𝚔𝚛𝚊𝚒𝚗𝚎</h3> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&center=true&width=435&lines=%F0%9D%99%B8'%F0%9D%9A%96+%F0%9D%9A%8A+%F0%9D%9A%8F%F0%9D%9A%9E%F0%9D%9A%95%F0%9D%9A%95-%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%8A%F0%9D%9A%8C%F0%9D%9A%94+%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9F%F0%9D%9A%8E%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%99%F0%9D%9A%8E%F0%9D%9A%9B+%F0%9D%9A%8F%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%96+%F0%9D%9A%84%F0%9D%9A%94%F0%9D%9A%9B%F0%9D%9A%8A%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%8E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&center=true&vCenter=true&width=800&lines=%F0%9D%99%B8'%F0%9D%9A%96+%F0%9D%9A%8A+%F0%9D%9A%8F%F0%9D%9A%9E%F0%9D%9A%95%F0%9D%9A%95-%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%8A%F0%9D%9A%8C%F0%9D%9A%94+%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9F%F0%9D%9A%8E%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%99%F0%9D%9A%8E%F0%9D%9A%9B+%F0%9D%9A%8F%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%96+%F0%9D%9A%84%F0%9D%9A%94%F0%9D%9A%9B%F0%9D%9A%8A%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%8E" alt="Typing SVG" /></a>
 
 
 [![codewars](https://www.codewars.com/users/webnovelty/badges/large)](https://www.codewars.com/users/webnovelty) 
